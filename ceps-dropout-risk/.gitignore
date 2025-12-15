@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do not upload CEPS)
+data/raw/
+data/processed/
+*.csv
+
+# Outputs
+outputs/
+outputs/models/
+outputs/metrics/
+outputs/figures/
+
+# OS
+.DS_Store
